@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hola! 👋
+
+Este documento se ha hecho sólo a fines educativos. 
+Actualmente me encuentro cursando:
+------------------
+1. Estructura de datos.
+2. Diseño Logico
+3. Algebra II
+
+Para terminar:
+
+> <em> El que no hace nada, nunca se equivoca</em>.
 
 <!--
 **rgomez1789/rgomez1789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
